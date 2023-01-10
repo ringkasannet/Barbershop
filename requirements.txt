@@ -49,3 +49,5 @@ wrapt
 ninja
 scikit-image
 IPython
+cmake
+dlib
